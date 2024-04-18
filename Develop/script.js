@@ -15,16 +15,15 @@ const collectEmployees = function() {
 
       employeesArray.push(employee);
     
-
+      //notify user to add or cancel
     const continueAdding = confirm("Do you want to add another employee?");
+
     if (continueAdding) {
-
       collectEmployees ();
-
-    } else {
+    } else { // arrange names by last name
       employeesArray.sort((a,b) => a.lastName.localeCompare(b.lastName));
-    displayEmployees(employeesArray);
-    displayAverageSalary(employeesArray);
+    displayEmployees(employeesArray); //display employee info
+    displayAverageSalary(employeesArray); // display average salary
 
     console.log('==============================');
     console.table(employeesArray);
@@ -39,7 +38,6 @@ const collectEmployees = function() {
 const displayAverageSalary = function(employeesArray) {
 
   // calculate the total salary
-  
   const totalSalary = employeesArray.reduce((total, employee) => total + employee.salary, 0);
   console.log(`Total Salary: ${totalSalary}`);
 
