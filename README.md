@@ -33,9 +33,11 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 * added comments to the script to clarify some functions. 
 
 ## Screenshots
-![Screenshot1](<./Assets/Assets/Screenshot1.pdf)
-![Screenshot2](<./Assets/Assets/Screenshot2.pdf)
-![Screenshot3](<./Assets/Assets/Screenshot3.pdf)
+![Screenshot1](<./Assets/Screenshot1.pdf)
+
+![Screenshot2](<./Assets/Screenshot2.pdf)
+
+![Screenshot3](<./Assets/Screenshot3.pdf)
 
 ## Links
 [Link to Remote Respository](https://github.com/mwahba624/Sphinx)
