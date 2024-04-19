@@ -31,7 +31,14 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 * added display employees to add each employee to the table.
 * added track Employee data to be terminated after "Add Employees" button is clicked.
 * added comments to the script to clarify some functions. 
+* got help from online sources, AI XPert and instructor.
+
+## Screenshots
+![Screenshot1](./Assets/Screenshot11.png)
+![Screenshot2](./Assets/Screenshot22.png)
+![Screenshot3](./Assets/Screenshot33.png)
 
 ## Links
 [Link to Remote Respository](https://github.com/mwahba624/Sphinx)
+
 [Link to payroll](https://mwahba624.github.io/Sphinx/)
