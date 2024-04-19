@@ -32,6 +32,11 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 * added track Employee data to be terminated after "Add Employees" button is clicked.
 * added comments to the script to clarify some functions. 
 
+## Screenshots
+![Screenshot1](<Screenshot 2024-04-18 at 6.07.27 PM.png>)
+![Screenshot2](<Screenshot 2024-04-18 at 6.07.42 PM.png>)
+![Screenshot3](<Screenshot 2024-04-18 at 6.08.31 PM.png>)
+
 ## Links
-[Link to Remote Respository]()
+[Link to Remote Respository](https://github.com/mwahba624/Sphinx)
 [Link to payroll]()
